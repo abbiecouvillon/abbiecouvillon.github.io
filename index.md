@@ -2,122 +2,14 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Introduction
 
-[Link to another page](./another-page.html).
+In my junior year of high school, I was selected for NASA's Highschool Aerospace Program where I participated in virtual chats with NASA engineers and scientists and completed an interactive online course on NASA activities related to space exploration, earth science, technology, and aeronautics directly related to the Artemis Generation and a mission to Mars. I also founded an all-girls eSports team at St. Agnes Academy dedicated to introducing and encouraging girls to play competitive videogames.
 
-There should be whitespace between paragraphs.
+I currently am part of the AGGIENOVA Research team led by Texas A&M Professor Peter Brown. In this team, we study supernova explosions using ultraviolet and X-ray data from the Neil Gehrels Swift Observatory. I am currently working on the AGGIENOVA Templates project that combines photometry from the Open Supernova Catalog, including data from the Swift Optical Ultraviolet Supernova Archive, with rarer spectral UV-optical templates from the Hubble Space Telescope or theoretical models.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Current Projects
 
-# Header 1
+### AGGIENOVA Template Project
+I am currently working with AGGIENOVA at Texas A&M University to develop a [supernova template program](https://github.com/pbrown801/aggienova-templates/tree/abbie2). The purpose of the project is to create spectrophotometric time-series templates for supernovae.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Introduction
 
 In my junior year of high school, I was selected for NASA's Highschool Aerospace Program where I participated in virtual chats with NASA engineers and scientists and completed an interactive online course on NASA activities related to space exploration, earth science, technology, and aeronautics directly related to the Artemis Generation and a mission to Mars. I also founded an all-girls eSports team at St. Agnes Academy dedicated to introducing and encouraging girls to play competitive videogames.

@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/abbiecouvillon/abbiecouvillon.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+In my junior year of high school, I was selected for NASA's Highschool Aerospace Program where I participated in virtual chats with NASA engineers and scientists and completed an interactive online course on NASA activities related to space exploration, earth science, technology, and aeronautics directly related to the Artemis Generation and a mission to Mars. I also founded an all-girls eSports team at St. Agnes Academy dedicated to introducing and encouraging girls to play competitive videogames.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I currently am part of the AGGIENOVA Research team led by Texas A&M Professor Peter Brown. In this team, we study supernova explosions using ultraviolet and X-ray data from the Neil Gehrels Swift Observatory. I am currently working on the AGGIENOVA Templates project that combines photometry from the Open Supernova Catalog, including data from the Swift Optical Ultraviolet Supernova Archive, with rarer spectral UV-optical templates from the Hubble Space Telescope or theoretical models.
 
-### Markdown
+# Current Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###AGGIENOVA Template Project
+I am currently working with AGGIENOVA at Texas A&M University to develop a [supernova template program](https://github.com/pbrown801/aggienova-templates/tree/abbie2). The purpose of the project is to create spectrophotometric time-series templates for supernovae.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abbiecouvillon/abbiecouvillon.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
